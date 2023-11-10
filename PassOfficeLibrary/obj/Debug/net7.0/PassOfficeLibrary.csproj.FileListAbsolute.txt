@@ -1,0 +1,33 @@
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.deps.json
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfoInputs.cache
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfo.cs
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\refint\PassOfficeLibrary.dll
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\PassOffice\TestTask\PassOfficeLibrary\obj\Debug\net7.0\ref\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.deps.json
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\refint\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\Desktop\TestTask — копия\PassOfficeLibrary\obj\Debug\net7.0\ref\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.deps.json
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\bin\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\refint\PassOfficeLibrary.dll
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\PassOfficeLibrary.pdb
+C:\Users\Михаил\Desktop\TestTask\PassOfficeLibrary\obj\Debug\net7.0\ref\PassOfficeLibrary.dll

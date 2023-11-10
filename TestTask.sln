@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassOfficeLibrary", "PassOfficeLibrary\PassOfficeLibrary.csproj", "{D461919C-359D-4B36-B889-F8828E21D6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassOffice", "PassOffice\PassOffice.csproj", "{457EAEBD-B66A-4F7F-B6BD-BE8BF5771765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D461919C-359D-4B36-B889-F8828E21D6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D461919C-359D-4B36-B889-F8828E21D6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D461919C-359D-4B36-B889-F8828E21D6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D461919C-359D-4B36-B889-F8828E21D6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457EAEBD-B66A-4F7F-B6BD-BE8BF5771765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457EAEBD-B66A-4F7F-B6BD-BE8BF5771765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457EAEBD-B66A-4F7F-B6BD-BE8BF5771765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457EAEBD-B66A-4F7F-B6BD-BE8BF5771765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98EDAC6-05AB-4148-A5C5-E138FFE8D878}
+	EndGlobalSection
+EndGlobal

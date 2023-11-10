@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PassOffice/1.0.0": {
+        "dependencies": {
+          "PassOfficeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PassOffice.dll": {}
+        }
+      },
+      "PassOfficeLibrary/1.0.0": {
+        "runtime": {
+          "PassOfficeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassOffice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassOfficeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
